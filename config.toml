@@ -1,4 +1,4 @@
-baseurl         = "blog.baginda.co"
+baseurl         = ""
 theme           = "casper-two"
 languageCode    = "en-US"
 disqusShortname = ""
