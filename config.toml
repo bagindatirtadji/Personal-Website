@@ -1,0 +1,65 @@
+baseurl         = "blog.baginda.co"
+theme           = "casper-two"
+languageCode    = "en-US"
+disqusShortname = ""
+paginate        = 6
+#SectionPagesMenu = "main"
+
+[params]
+  title       = "@baginda"
+  subtitle    = "Things To Learn"
+
+  cover       = "uploads/space.jpeg"
+  description = "Things that I have learned over the past."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "bagindatirtadji"
+  fbName = "fakeghost"
+  githubName = "bagindatirtadji"
+
+  logo = ""
+  orgName = "EM"
+  orgWebsite = "https://www.telematika.org"
+  orgDescription = "Here is a description placeholder for your org"
+
+  author = "Baginda Tirtadji"
+  authorAvatar = "uploads/profile_pic.jpg"
+  authorLocation = "Delft, Netherlands"
+  authorWebsite = "https://baginda.co"
+  authorDescription = "Cautiously Optimistic. Growth Marketeer @ Somnox."
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "caspertwo"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Main"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Essays"
+  url = "/tags/essay/"
+  weight = 100
+
+[[menu.main]]
+  name = "Learnings"
+  url = "/categories/learnings/"
+  weight = 99
+
+[[menu.main]]
+  name = "Google"
+  url = "https://google.com/"
+  weight = 95
+
+[[menu.main]]
+  name = "Brave"
+  url = "https://brave.com/"
+  weight = 95
