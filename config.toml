@@ -9,7 +9,7 @@ paginate        = 6
   title       = "@baginda"
   subtitle    = "Things To Learn"
 
-  cover       = "uploads/space.jpeg"
+  cover       = "uploads/web_header.jpeg"
   description = "Things that I have learned over the past."
   metaDescription = ""
   googleAnalytics = ""
