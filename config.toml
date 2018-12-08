@@ -21,8 +21,8 @@ paginate        = 6
   githubName = "bagindatirtadji"
 
   logo = ""
-  orgName = "EM"
-  orgWebsite = "https://www.telematika.org"
+  orgName = "BT"
+  orgWebsite = "https://baginda.co"
   orgDescription = "Here is a description placeholder for your org"
 
   author = "Baginda Tirtadji"
@@ -53,13 +53,3 @@ paginate        = 6
   name = "Learnings"
   url = "/categories/learnings/"
   weight = 99
-
-[[menu.main]]
-  name = "Google"
-  url = "https://google.com/"
-  weight = 95
-
-[[menu.main]]
-  name = "Brave"
-  url = "https://brave.com/"
-  weight = 95
