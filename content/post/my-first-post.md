@@ -1,5 +1,5 @@
 ---
-title: "Hello World"
+title: "Deployed!!!"
 date: 2018-12-08T14:26:58+01:00
 draft: false
 image: "uploads/hello_world.jpeg"
